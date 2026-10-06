@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Aadi 👋
 
-<!--
-**aadibuilds/aadibuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring developer · Android enthusiast · Open-source explorer
 
-Here are some ideas to get you started:
+I love tinkering with tech — from Android customization to building for the web. Currently learning, experimenting, and sharing the journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I'm into
+
+- 🤖 Android customization & root (Magisk, modules)
+- 🌐 Web development
+- 📦 Open source
+
+## 📈 GitHub Stats
+
+![Aadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aadibuilds&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadibuilds&layout=compact&theme=tokyonight)
+
+## 📫 Let's connect
+
+- 💬 Ask me about Android, tech, or anything cool you're building
